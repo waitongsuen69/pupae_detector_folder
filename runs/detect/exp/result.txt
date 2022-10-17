@@ -1,0 +1,56 @@
+Detect version : exp10
+img_size: 3072
+confidence: 0.5
+iou_value: 0.3
+
+Image: var
+Number of pupae: 319
+
+Image: ts5
+Number of pupae: 46
+
+Image: ts4
+Number of pupae: 94
+
+Image: lv8
+Number of pupae: 1174
+
+Image: ts6
+Number of pupae: 48
+
+Image: ts7
+Number of pupae: 39
+
+Image: ts3
+Number of pupae: 48
+
+Image: ts2
+Number of pupae: 103
+
+Image: ts1
+Number of pupae: 33
+
+Image: lv2
+Number of pupae: 90
+
+Image: err
+Number of pupae: 12
+
+Image: lv3
+Number of pupae: 102
+
+Image: lv4
+Number of pupae: 201
+
+Image: lv5
+Number of pupae: 227
+
+Image: lv7
+Number of pupae: 614
+
+Image: ts8
+Number of pupae: 36
+
+Image: lv6
+Number of pupae: 312
+
